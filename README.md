@@ -1,0 +1,1 @@
+This is a stability calculator for Digital Linear Ion Trap programmed in Visual Basic, called “DAWI calculator for LIT”. This software can be used to compute a-q parameters at boundaries of the first stability region, and to predict the stability of ions with given mass-to-charge ratios (m/z) and parameters of the rectangular waveforms.
